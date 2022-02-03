@@ -10,8 +10,9 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname="BCBSA"
-ARG reponame="praveengitrepo"
+
+ARG orgname="githubschool"
+ARG reponame="pub-sec-t3-praveengituser"
 
 #########################################
 # Label the instance and set maintainer #
